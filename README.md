@@ -4,8 +4,8 @@
 
 Unlike traditional resources that focus only on theory, PatternGrader provides a complete hands-on loop: learn a concept, solve a coding challenge in a live editor, and receive immediate, detailed feedback from an AI evaluator.
 
-**(Recommended: Add a high-quality screenshot or GIF of the app dashboard and challenge editor here!)**
-`![PatternGrader Demo](link-to-your-screenshot-or-gif.gif)`
+<!-- **(Recommended: Add a high-quality screenshot or GIF of the app dashboard and challenge editor here!)**
+`![PatternGrader Demo](link-to-your-screenshot-or-gif.gif)` -->
 
 ## Core Features
 
